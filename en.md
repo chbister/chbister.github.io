@@ -169,6 +169,8 @@ Ideally suited for situations such as:
 - stabilisation of a product or platform
 - structured handover to internal ownership
 
+**LinkedIn: [www.linkedin.com/in/christianbister](https://www.linkedin.com/in/christianbister)**
+
 **Stuttgart region · Remote · Hybrid · On-site by arrangement · available for international collaboration**
 
 ---

@@ -174,6 +174,8 @@ Besonders geeignet für Situationen wie:
 - Stabilisierung eines Produkts oder einer Plattform
 - strukturierte Übergabe an eine interne Verantwortung
 
+**LinkedIn: [www.linkedin.com/in/christianbister](https://www.linkedin.com/in/christianbister)**
+
 **Region Stuttgart · Remote · Hybrid · Vor Ort nach Vereinbarung · internationale Zusammenarbeit möglich**
 
 ---
