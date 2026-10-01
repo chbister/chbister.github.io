@@ -98,6 +98,7 @@ Konzeption und Entwicklung individueller Softwarelösungen von der Anforderungsa
 
 Entwicklung eigener Softwareprodukte und ausgewählter Kundenlösungen seit 2003. Die Bandbreite reicht von langlebigen Integrationslösungen für Geschäftsdaten bis zu modernen Web-/Mobile-Produkten, cloud-nativer Automatisierung und AI-/LLM-Integration.
 
+- Produkt- und Softwareentwicklung der eigenen Apps **GoutWatcher** und **Kickfriends**; GoutWatcher ist als iOS-App im Apple App Store veröffentlicht
 - Entwicklung und langjähriges Lifecycle-Management einer geschäftsrelevanten Daten- und Abrechnungsschnittstelle für einen regionalen Verkehrsverbund – inklusive Legacy-Analyse, Migration, Parallelbetrieb, Testing und Fachbereichsabnahme
 - Konzeption, Entwicklung und Veröffentlichung eigener Mobile-Produkte; eine frühe iPhone-App erreichte ohne Werbung mehr als 500 Downloads
 - Full-Stack-Entwicklung mit PHP/Laravel, Vue.js und Python
@@ -132,7 +133,7 @@ Entwicklung eigener Softwareprodukte und ausgewählter Kundenlösungen seit 2003
 
 <div class="case"><span class="eyebrow">Freelance · Data Integration</span><h3>Geschäfts- und Abrechnungsdaten im öffentlichen Verkehr</h3><p>Migration einer proprietären Schnittstelle für Verkaufs-, Umsatz, Statistik- und Abrechnungsdaten eines regionalen Verkehrsverbunds. Analyse der Legacy-Lösung, Entwicklung der neuen Schnittstelle, Parallelbetrieb, Testing und Abnahme mit dem Fachbereich; anschließend mehrjähriges Lifecycle-Management.</p><div class="metrics"><strong>18 Monate Migration</strong><strong>Mehrjähriger Betrieb</strong><strong>Legacy → neue Schnittstelle</strong></div></div>
 
-<div class="case"><span class="eyebrow">Mobile Product</span><h3>Cross-Platform-App</h3><p>Konzeption und End-to-End-Entwicklung einer mobilen Anwendung für iOS und Android inklusive Navigation, lokaler Datenhaltung, Internationalisierung, Abonnements und automatisierten Tests.</p><p><code>React Native</code> <code>TypeScript</code> <code>RevenueCat</code> <code>Jest</code></p></div>
+<div class="case"><span class="eyebrow">Eigene digitale Produkte</span><h3>GoutWatcher &amp; Kickfriends</h3><p>Produkt- und Softwareentwicklung zweier eigener Apps. GoutWatcher wurde als iOS-App im Apple App Store veröffentlicht; Kickfriends ist ein weiteres eigenes digitales Produkt.</p></div>
 
 ## Führung & Arbeitsweise
 
