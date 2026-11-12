@@ -50,12 +50,13 @@ I provide temporary support in critical phases to assume responsibility, stabili
 Responsible for strategy, roadmap, backlog and continuous development of a digital communication and workflow platform for healthcare practices and patients.
 
 - Functional leadership of an international, interdisciplinary team of up to 10 developers and designers
-- User and customer interviews, market and competitor analysis, translating insights into product decisions
+- User and customer interviews, market and competitor analysis, translating insights into product decisions; facilitation of requirements workshops with physicians and practices
 - Evolution from a messenger into a platform for practice workflow management and secure patient communication
 - Preparation and management of rollout to **250+ healthcare practices** and **5,000+ patients**
 - Managed a development vendor transition from offshore to nearshore, including knowledge transfer and quality standards
 - Designed and technically implemented AI/LLM functionality for translation and summarisation; not rolled out to production due to data-protection considerations
-- Regulatory and compliance topics in healthcare IT, BSI C5 and ISO 27001 environments
+- Specification and responsibility for individual product modules, including medical letters (Arztbrief) and disease management programmes (DMP)
+- Translation of German healthcare regulatory requirements into concrete product requirements, such as deletion rules and video consultation; compliance requirements in the BSI C5 and ISO 27001 context
 - Evaluation of licensing, cost and product models
 
 `Product Ownership` `Healthcare IT` `Matrix` `AI/LLM` `APIs` `YouTrack` `BSI C5` `ISO 27001`
@@ -99,9 +100,9 @@ Design and development of custom software solutions from requirements analysis t
 
 Development of own software products and selected customer solutions since 2003. Work ranges from long-lived business-data integration solutions to modern web/mobile products, cloud-native automation and AI/LLM integration.
 
-- Product and software development of the own apps **GoutWatcher** and **Kickfriends**; GoutWatcher is published as an iOS app in the Apple App Store
+- Product and software development of the own apps **GoutWatcher** and **Kickfriends**; GoutWatcher is a cross-platform iOS/Android app (React Native, TypeScript) published in the app store, reaching more than 500 downloads without advertising
 - Development and long-term lifecycle management of a business-relevant sales and settlement data interface for a regional public transport organisation, including legacy analysis, migration, parallel operation, testing and business acceptance
-- Conception, development and publication of own mobile products; an early iPhone app reached more than 500 downloads without advertising
+- End-to-end responsibility for the own product GoutWatcher: product decisions, development, operation, app-store publication, and commercial and financial aspects
 - Full-stack development with PHP/Laravel, Vue.js and Python
 - REST APIs, integrations and data models
 - Containerised, stateless Python services and Docker-based operations
@@ -122,13 +123,13 @@ Development of own software products and selected customer solutions since 2003.
 
 <div class="case"><span class="eyebrow">Automation</span><h3>Infrastructure Provisioning</h3><p>Standardisation and automation of infrastructure, provisioning and deployment processes together with international technical experts.</p><div class="metrics"><strong>≥2 weeks → ≈2 days</strong><strong>Self-service</strong><strong>Standardisation</strong></div></div>
 
-<div class="case"><span class="eyebrow">Data Platform</span><h3>Global Big-Data Platform</h3><p>Integrated an analytics/big-data platform with central IT and security standards and established an automated deployment process executable directly by development teams.</p><div class="metrics"><strong>Multiple deployments/day</strong><strong>DevOps</strong><strong>Hadoop / Big Data</strong></div></div>
+<div class="case"><span class="eyebrow">Data Platform</span><h3>Global Big-Data Platform</h3><p>Integrated an analytics/big-data platform with central IT and security standards and established an automated deployment process executable directly by development teams.</p><div class="metrics"><strong>Multiple deployments/day</strong><strong>Automated deployment</strong><strong>Hadoop / Big Data</strong></div></div>
 
 <div class="case"><span class="eyebrow">AI & Automation</span><h3>Document & Workflow Automation</h3><p>Development of cloud-native automation solutions using Python, Docker, n8n, APIs and LLMs for document analysis and processing, integrating AI and software components.</p></div>
 
 <div class="case"><span class="eyebrow">Freelance · Data Integration</span><h3>Business & Settlement Data in Public Transport</h3><p>Migrated a proprietary interface for sales, revenue, statistics and settlement data for a regional public transport organisation. Analysed the legacy solution, developed the replacement interface, supported parallel operation, testing and business acceptance, followed by multi-year lifecycle management.</p><div class="metrics"><strong>18-month migration</strong><strong>Multi-year operation</strong><strong>Legacy → new interface</strong></div></div>
 
-<div class="case"><span class="eyebrow">Own Digital Products</span><h3>GoutWatcher &amp; Kickfriends</h3><p>Product and software development of two own apps. GoutWatcher was published as an iOS app in the Apple App Store; Kickfriends is another own digital product.</p></div>
+<div class="case"><span class="eyebrow">Own Digital Products</span><h3>GoutWatcher &amp; Kickfriends</h3><p>Product and software development of two own apps. GoutWatcher was published in the app store as a cross-platform iOS/Android app and reached more than 500 downloads without advertising; Kickfriends is another own digital product.</p></div>
 
 ## Leadership & Working Principles
 
@@ -145,15 +146,15 @@ Development of own software products and selected customer solutions since 2003.
 | Area | Experience / Technologies |
 |---|---|
 | **Leadership & Management** | Functional leadership, team development, international teams, deputy team leadership, stakeholder management, provider management, change & transformation |
-| **Product & Agile** | Product Ownership, Product Management, product strategy, roadmaps, backlog management, requirements engineering, epics & user stories, Scrum, Kanban |
+| **Product & Agile** | Product Ownership, Product Management, product strategy, roadmaps, backlog management, requirements engineering, epics & user stories, Scrum, Kanban, SAFe 5 (certified through 02/2022) |
 | **AI & Automation** | Generative AI, LLMs, RAG, Agentic AI, Python, n8n, AI APIs, workflow automation, AI-assisted software development & testing |
 | **Software Engineering** | PHP, Laravel, Python, JavaScript, TypeScript, Vue.js, Inertia.js, React, React Native, REST APIs, Playwright, Jest, Git/GitHub |
 | **Cloud Native & Deployment** | Docker, containerised/stateless services, CI/CD, Microsoft Azure, APIs, automated deployments |
-| **Platform & Operations** | Enterprise platforms, Windows Server, Active Directory, Entra ID, VMware, IBM MQ, IBM Integration Bus, messaging, file transfer |
+| **Platform & Operations** | Platform Operations, Service Reliability, Infrastructure Automation, Self-Service Platforms, Architecture Standards & Governance, enterprise platforms, Windows Server, Active Directory, Entra ID, VMware, IBM MQ, IBM Integration Bus, messaging, file transfer |
 | **IT Service Management** | ITIL v3, service level, incident, problem, change, release & lifecycle management, ServiceNow, BMC Remedy |
-| **Data & Observability** | SQL, Hadoop/Big Data, Splunk, Grafana, InfluxDB |
+| **Data & Observability** | SQL, structured data processing (JSON, XML), Hadoop/Big Data, Splunk, Grafana, InfluxDB |
 | **Security & Compliance** | Information security, authentication & authorisation, IT audits, BSI C5, ISO 27001, regulated healthcare IT, open-source & licence compliance |
-| **Monetisation** | Licensing and cost models, Stripe, RevenueCat, payment and subscription processes |
+| **Commercial & Cost** | IT budget responsibility, cost optimisation, licensing and cost models, Stripe, RevenueCat, payment and subscription processes |
 
 ## Industry Experience
 

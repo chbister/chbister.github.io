@@ -49,12 +49,13 @@ Ich unterstütze Unternehmen temporär in kritischen Phasen, um Verantwortung zu
 Verantwortung für Strategie, Roadmap, Backlog und Weiterentwicklung einer digitalen Kommunikations- und Workflow-Plattform für Arztpraxen und Patienten.
 
 - Fachliche Führung eines internationalen, interdisziplinären Teams mit bis zu 10 Entwicklern und Designern
-- Nutzer- und Kundeninterviews, Markt- und Wettbewerbsbeobachtung sowie Übersetzung der Erkenntnisse in Produktentscheidungen
+- Nutzer- und Kundeninterviews, Markt- und Wettbewerbsbeobachtung sowie Übersetzung der Erkenntnisse in Produktentscheidungen; Moderation von Requirements-Workshops mit Ärzten und Praxen
 - Weiterentwicklung vom Messenger zur Plattform für Praxis-Arbeitssteuerung und sichere Patientenkommunikation
 - Vorbereitung und Steuerung des Rollouts für über **250 Arztpraxen** und mehr als **5.000 Patienten**
 - Steuerung eines Entwicklungsdienstleisterwechsels von Offshore zu Nearshore inklusive Wissenstransfer und Qualitätsstandards
 - Konzeption und technische Erprobung von AI-/LLM-Funktionen für Übersetzung und Zusammenfassung; aufgrund von Datenschutzabwägungen nicht produktiv ausgerollt
-- Regulatorische und Compliance-Themen im Umfeld von Gesundheits-IT, BSI C5 und ISO 27001
+- Spezifikation und Verantwortung einzelner Produktmodule, darunter Arztbrief und Disease-Management-Programme (DMP)
+- Übersetzung regulatorischer Vorgaben aus dem deutschen Gesundheitswesen in konkrete Produktanforderungen, etwa Löschregularien und Video-Sprechstunde; Compliance-Anforderungen im Umfeld von BSI C5 und ISO 27001
 - Bewertung von Lizenzierungs-, Kosten- und Produktmodellen
 
 `Product Ownership` `Healthcare IT` `Matrix` `AI/LLM` `APIs` `YouTrack` `BSI C5` `ISO 27001`
@@ -98,9 +99,9 @@ Konzeption und Entwicklung individueller Softwarelösungen von der Anforderungsa
 
 Entwicklung eigener Softwareprodukte und ausgewählter Kundenlösungen seit 2003. Die Bandbreite reicht von langlebigen Integrationslösungen für Geschäftsdaten bis zu modernen Web-/Mobile-Produkten, cloud-nativer Automatisierung und AI-/LLM-Integration.
 
-- Produkt- und Softwareentwicklung der eigenen Apps **GoutWatcher** und **Kickfriends**; GoutWatcher ist als iOS-App im Apple App Store veröffentlicht
+- Produkt- und Softwareentwicklung der eigenen Apps **GoutWatcher** und **Kickfriends**; GoutWatcher ist als Cross-Platform-App für iOS und Android (React Native, TypeScript) im App Store veröffentlicht und erreichte ohne Werbung mehr als 500 Downloads
 - Entwicklung und langjähriges Lifecycle-Management einer geschäftsrelevanten Daten- und Abrechnungsschnittstelle für einen regionalen Verkehrsverbund – inklusive Legacy-Analyse, Migration, Parallelbetrieb, Testing und Fachbereichsabnahme
-- Konzeption, Entwicklung und Veröffentlichung eigener Mobile-Produkte; eine frühe iPhone-App erreichte ohne Werbung mehr als 500 Downloads
+- End-to-End-Verantwortung für das eigene Produkt GoutWatcher: Produktentscheidungen, Entwicklung, Betrieb, App-Store-Veröffentlichung sowie kommerzielle und finanzielle Aspekte
 - Full-Stack-Entwicklung mit PHP/Laravel, Vue.js und Python
 - REST APIs, Integrationen und Datenmodelle
 - Containerisierte, stateless Python-Services und Docker-basierter Betrieb
@@ -133,7 +134,7 @@ Entwicklung eigener Softwareprodukte und ausgewählter Kundenlösungen seit 2003
 
 <div class="case"><span class="eyebrow">Freelance · Data Integration</span><h3>Geschäfts- und Abrechnungsdaten im öffentlichen Verkehr</h3><p>Migration einer proprietären Schnittstelle für Verkaufs-, Umsatz, Statistik- und Abrechnungsdaten eines regionalen Verkehrsverbunds. Analyse der Legacy-Lösung, Entwicklung der neuen Schnittstelle, Parallelbetrieb, Testing und Abnahme mit dem Fachbereich; anschließend mehrjähriges Lifecycle-Management.</p><div class="metrics"><strong>18 Monate Migration</strong><strong>Mehrjähriger Betrieb</strong><strong>Legacy → neue Schnittstelle</strong></div></div>
 
-<div class="case"><span class="eyebrow">Eigene digitale Produkte</span><h3>GoutWatcher &amp; Kickfriends</h3><p>Produkt- und Softwareentwicklung zweier eigener Apps. GoutWatcher wurde als iOS-App im Apple App Store veröffentlicht; Kickfriends ist ein weiteres eigenes digitales Produkt.</p></div>
+<div class="case"><span class="eyebrow">Eigene digitale Produkte</span><h3>GoutWatcher &amp; Kickfriends</h3><p>Produkt- und Softwareentwicklung zweier eigener Apps. GoutWatcher wurde als Cross-Platform-App für iOS und Android im App Store veröffentlicht und erreichte mehr als 500 Downloads ohne Werbung; Kickfriends ist ein weiteres eigenes digitales Produkt.</p></div>
 
 ## Führung & Arbeitsweise
 
@@ -150,15 +151,15 @@ Entwicklung eigener Softwareprodukte und ausgewählter Kundenlösungen seit 2003
 | Bereich | Erfahrung / Technologien |
 |---|---|
 | **Leadership & Management** | Fachliche Führung, Teamentwicklung, internationale Teams, stellvertretende Teamleitung, Stakeholder Management, Provider Management, Change & Transformation |
-| **Product & Agile** | Product Ownership, Product Management, Produktstrategie, Roadmap, Backlog Management, Requirements Engineering, Epics & User Stories, Scrum, Kanban |
+| **Product & Agile** | Product Ownership, Product Management, Produktstrategie, Roadmap, Backlog Management, Requirements Engineering, Epics & User Stories, Scrum, Kanban, SAFe 5 (Zertifizierung gültig bis 02/2022) |
 | **AI & Automation** | Generative AI, LLM, RAG, Agentic AI, Python, n8n, AI APIs, Workflow Automation, AI-gestützte Softwareentwicklung & Testing |
 | **Software Development** | PHP, Laravel, Python, JavaScript, TypeScript, Vue.js, Inertia.js, React, React Native, REST APIs, Playwright, Jest, Git/GitHub |
 | **Cloud Native & Deployment** | Docker, containerisierte/stateless Services, CI/CD, Microsoft Azure, APIs, automatisierte Deployments |
-| **Platform & Operations** | Enterprise-Plattformen, Windows Server, Active Directory, Entra ID, VMware, IBM MQ, IBM Integration Bus, Messaging, File Transfer |
+| **Platform & Operations** | Platform Operations, Service Reliability, Infrastructure Automation, Self-Service-Plattformen, Architekturstandards & Governance, Enterprise-Plattformen, Windows Server, Active Directory, Entra ID, VMware, IBM MQ, IBM Integration Bus, Messaging, File Transfer |
 | **IT Service Management** | ITIL v3, Service Level, Incident, Problem, Change, Release & Lifecycle Management, ServiceNow, BMC Remedy |
-| **Data & Observability** | SQL, Hadoop/Big Data, Splunk, Grafana, InfluxDB |
+| **Data & Observability** | SQL, Verarbeitung strukturierter Daten (JSON, XML), Hadoop/Big Data, Splunk, Grafana, InfluxDB |
 | **Security & Compliance** | Informationssicherheit, Authentifizierung & Autorisierung, IT-Audits, BSI C5, ISO 27001, regulatorische Gesundheits-IT, Open-Source- & License-Compliance |
-| **Monetarisierung** | Lizenz- und Kostenmodelle, Stripe, RevenueCat, Zahlungs- und Abonnementprozesse |
+| **Commercial & Cost** | IT-Budgetverantwortung, Kostenoptimierung, Lizenz- und Kostenmodelle, Stripe, RevenueCat, Zahlungs- und Abonnementprozesse |
 
 ## Branchenerfahrung
 
